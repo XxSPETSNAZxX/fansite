@@ -1,0 +1,127 @@
+
+    @import url('https://fonts.googleapis.com/css?family=Bebas+Neue&display=swap');
+    @import url('https://fonts.googleapis.com/css?family=Muli&display=swap');
+    @import url('https://fonts.googleapis.com/css?family=Pacifico&display=swap');
+    @import url('https://fonts.googleapis.com/css?family=Fredoka+One&display=swap');
+    @import url('https://fonts.googleapis.com/css?family=Courgette&display=swap');
+    #banner {
+        width: 500px;
+        margin: 0 auto;
+        text-align: center;
+        padding: 10px;
+        background-color: blue;
+        border: solid 2px white;
+        border-radius: 10px;
+        background-image: url("https://mcdn.wallpapersafari.com/medium/20/63/TY49hO.jpg")
+    }
+    #banner h1 {
+        font-family: 'Muli', sans-serif;
+        font-size: 32px;
+        text-shadow: 2px 4px 3px rgba(0,0,0,0.3);
+        color: white;
+    }
+    #banner h2 {
+        font-family: 'Muli', sans-serif;       
+        font-size: 24px;
+        text-shadow: 2px 4px 3px rgba(0,0,0,0.3);
+        color: white;
+    }
+    #nav {
+        white-space: nowrap;
+        text-align: center;
+    }
+    #main {
+        width: 600px;
+        border: solid 2px white;
+        background color: yellow;
+        margin: 0 auto;
+    }
+    #footer{
+        width: 100px;
+        margin-left: auto;
+        margin-right: auto;
+        font-family: 'Bebas Neue', cursive;
+        color: red;
+        font-size: 20px;
+        text-transform: uppercase;
+        padding-top: 5px;
+    }
+    #aside {
+        width: 200px;
+    }
+    #wrapper {
+        margin: 0 auto;
+        width: 800px;
+    }
+    body {
+        background-image: url("https://media.contentapi.ea.com/content/dam/star-wars-battlefront-2/common/swbf2-section-bg-about-top-celebration-edition-xl.jpg.adapt.320w.jpg");
+        margin: 0;
+        font-family: 'Bebas Neue', cursive; 
+        font-size: 32px;
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+
+    }
+    #nav a {
+        font-family: 'Bebas Neue', cursive;
+        font-weight: bold;
+        color: orange;
+        text-transform: uppercase;
+        margin-right: 10px;
+        padding: 10px;
+    }   
+    .imgLeft {
+        float: left;
+        margin-right: 15;
+    }
+    .imgRight {
+        float: right;
+        margin-left: 15;
+    }
+    h1 {
+        font-family: 'Fredoka One', cursive;
+        font-size: 10px
+        color: white;
+    }
+
+    h2 {
+        font-family: 'Pacifico', cursive;
+        font-size:
+        color: gray
+        border-top: 
+        padding-top: 10px;
+    }
+
+    #nav a:hover {
+        color: red
+        border-bottom: double;
+    }
+
+
+    .quicklinks {
+        font-family: 10px;
+        font-size: 10px;
+        color: pink;
+    }
+
+    p {
+        font-family: 'Pacifico', cursive;
+        color: white;
+    }
+    #title h1 {
+        color: white;
+    }
+
+     .sw {
+        white-space: nowrap;
+        text-align: center;
+    }
+    .sw a{
+        color: red;
+        font-family: 'Bebas Neue', cursive;
+        font-weight: bold;
+        text-transform: uppercase;
+        margin-right: 10px;
+        padding: 10px;
+        font-family: 'Courgette', cursive;
+    }
